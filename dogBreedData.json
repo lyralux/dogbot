@@ -1,0 +1,594 @@
+[
+  {
+    "Breed": "Akita",
+    "Weight": 100
+  },
+  {
+    "Breed": "Anatolian Sheepdog",
+    "Weight": 125
+  },
+  {
+    "Breed": "Bernese Mountain Dog",
+    "Weight": 97.5
+  },
+  {
+    "Breed": "Bloodhound",
+    "Weight": 100
+  },
+  {
+    "Breed": "Borzoi",
+    "Weight": 85
+  },
+  {
+    "Breed": "Bullmastiff",
+    "Weight": 115
+  },
+  {
+    "Breed": "Great Dane",
+    "Weight": 140
+  },
+  {
+    "Breed": "Great Pyrenees",
+    "Weight": 107.5
+  },
+  {
+    "Breed": "Great Swiss Mountain Dog",
+    "Weight": 140
+  },
+  {
+    "Breed": "Irish Wolfhound",
+    "Weight": 120
+  },
+  {
+    "Breed": "Kuvasz",
+    "Weight": 95
+  },
+  {
+    "Breed": "Mastiff",
+    "Weight": 182.5
+  },
+  {
+    "Breed": "Neopolitan Mastiff",
+    "Weight": 125
+  },
+  {
+    "Breed": "Newfoundland",
+    "Weight": 125
+  },
+  {
+    "Breed": "Otter Hound",
+    "Weight": 87.5
+  },
+  {
+    "Breed": "Rottweiler",
+    "Weight": 100
+  },
+  {
+    "Breed": "Saint Bernard",
+    "Weight": 150
+  },
+  {
+    "Breed": "Afghan Hound",
+    "Weight": 55
+  },
+  {
+    "Breed": "American Foxhound",
+    "Weight": 67.5
+  },
+  {
+    "Breed": "Beauceron",
+    "Weight": 110
+  },
+  {
+    "Breed": "Belgian Malinois",
+    "Weight": 62.5
+  },
+  {
+    "Breed": "Belgian Sheepdog",
+    "Weight": 67.5
+  },
+  {
+    "Breed": "Belgian Tervuren",
+    "Weight": 67.5
+  },
+  {
+    "Breed": "Black And Tan Coonhound",
+    "Weight": 62.5
+  },
+  {
+    "Breed": "Black Russian Terrier",
+    "Weight": 110
+  },
+  {
+    "Breed": "Bouvier Des Flandres",
+    "Weight": 85
+  },
+  {
+    "Breed": "Boxer",
+    "Weight": 67.5
+  },
+  {
+    "Breed": "Briard",
+    "Weight": 75
+  },
+  {
+    "Breed": "Chesapeake Bay Retriever",
+    "Weight": 65
+  },
+  {
+    "Breed": "Clumber Spaniel",
+    "Weight": 50
+  },
+  {
+    "Breed": "Collie (Rough) & (Smooth)",
+    "Weight": 62.5
+  },
+  {
+    "Breed": "Curly Coated Retriever",
+    "Weight": 72.5
+  },
+  {
+    "Breed": "Doberman Pinscher",
+    "Weight": 80
+  },
+  {
+    "Breed": "English Foxhound",
+    "Weight": 67.5
+  },
+  {
+    "Breed": "English Setter",
+    "Weight": 62.5
+  },
+  {
+    "Breed": "German Shepherd Dog",
+    "Weight": 82.5
+  },
+  {
+    "Breed": "German Shorthaired Pointer",
+    "Weight": 65
+  },
+  {
+    "Breed": "German Wirehaired Pointer",
+    "Weight": 65
+  },
+  {
+    "Breed": "Giant Schnauzer",
+    "Weight": 72.5
+  },
+  {
+    "Breed": "Golden Retriever",
+    "Weight": 65
+  },
+  {
+    "Breed": "Gordon Setter",
+    "Weight": 62.5
+  },
+  {
+    "Breed": "Greyhound",
+    "Weight": 65
+  },
+  {
+    "Breed": "Irish Setter",
+    "Weight": 65
+  },
+  {
+    "Breed": "Komondor",
+    "Weight": 107.5
+  },
+  {
+    "Breed": "Labrador Retriever",
+    "Weight": 67.5
+  },
+  {
+    "Breed": "Old English Sheepdog (Bobtail)",
+    "Weight": 62.5
+  },
+  {
+    "Breed": "Poodle Standard",
+    "Weight": 45
+  },
+  {
+    "Breed": "Rhodesian Ridgeback",
+    "Weight": 77.5
+  },
+  {
+    "Breed": "Scottish Deerhound",
+    "Weight": 92.5
+  },
+  {
+    "Breed": "Spinone Italiano",
+    "Weight": 72.5
+  },
+  {
+    "Breed": "Tibetan Mastiff",
+    "Weight": 155
+  },
+  {
+    "Breed": "Weimaraner",
+    "Weight": 77.5
+  },
+  {
+    "Breed": "Airdale Terrier",
+    "Weight": 45
+  },
+  {
+    "Breed": "American Staffordshire Terrier",
+    "Weight": 45
+  },
+  {
+    "Breed": "American Water Spaniel",
+    "Weight": 35
+  },
+  {
+    "Breed": "Australian Cattle Dog",
+    "Weight": 40
+  },
+  {
+    "Breed": "Australian Shepherd",
+    "Weight": 50
+  },
+  {
+    "Breed": "Basset Hound",
+    "Weight": 45
+  },
+  {
+    "Breed": "Bearded Collie",
+    "Weight": 50
+  },
+  {
+    "Breed": "Border Collie",
+    "Weight": 40
+  },
+  {
+    "Breed": "Brittany",
+    "Weight": 35
+  },
+  {
+    "Breed": "Bull Dog",
+    "Weight": 55
+  },
+  {
+    "Breed": "Bull Terrier",
+    "Weight": 60
+  },
+  {
+    "Breed": "Canaan Dog",
+    "Weight": 45
+  },
+  {
+    "Breed": "Chinese Shar Pei",
+    "Weight": 50
+  },
+  {
+    "Breed": "Chow Chow",
+    "Weight": 50
+  },
+  {
+    "Breed": "Cocker Spaniel-American",
+    "Weight": 25
+  },
+  {
+    "Breed": "Cocker Spaniel-English",
+    "Weight": 30
+  },
+  {
+    "Breed": "Dalmatian",
+    "Weight": 57.5
+  },
+  {
+    "Breed": "English Springer Spaniel",
+    "Weight": 50
+  },
+  {
+    "Breed": "Field Spaniel",
+    "Weight": 42.5
+  },
+  {
+    "Breed": "Flat Coated Retriever",
+    "Weight": 65
+  },
+  {
+    "Breed": "Finnish Spitz",
+    "Weight": 33
+  },
+  {
+    "Breed": "Harrier",
+    "Weight": 50
+  },
+  {
+    "Breed": "Ibizan Hound",
+    "Weight": 48.5
+  },
+  {
+    "Breed": "Irish Terrier",
+    "Weight": 26
+  },
+  {
+    "Breed": "Irish Water Spaniel",
+    "Weight": 55
+  },
+  {
+    "Breed": "Keeshond",
+    "Weight": 42.5
+  },
+  {
+    "Breed": "Kerry Blue Terrier",
+    "Weight": 37.5
+  },
+  {
+    "Breed": "Norwegian Elkhound",
+    "Weight": 50
+  },
+  {
+    "Breed": "Nova Scotia Duck Tolling Retriever",
+    "Weight": 42.5
+  },
+  {
+    "Breed": "Petit Basset Griffon Vendeen",
+    "Weight": 35
+  },
+  {
+    "Breed": "Pharaoh Hound",
+    "Weight": 50
+  },
+  {
+    "Breed": "Plott Hound",
+    "Weight": 50
+  },
+  {
+    "Breed": "Pointer",
+    "Weight": 55
+  },
+  {
+    "Breed": "Polish Lowland Sheepdog",
+    "Weight": 32.5
+  },
+  {
+    "Breed": "Portuguese Water Dog",
+    "Weight": 51
+  },
+  {
+    "Breed": "Redbone Coonhound",
+    "Weight": 60
+  },
+  {
+    "Breed": "Saluki",
+    "Weight": 52.5
+  },
+  {
+    "Breed": "Samoyed",
+    "Weight": 57.5
+  },
+  {
+    "Breed": "Siberian Husky",
+    "Weight": 50
+  },
+  {
+    "Breed": "Soft-Coated Wheaten Terrier",
+    "Weight": 40
+  },
+  {
+    "Breed": "Staffordshire Bull Terrier",
+    "Weight": 26
+  },
+  {
+    "Breed": "Standard Schnauzer",
+    "Weight": 33
+  },
+  {
+    "Breed": "Sussex Spaniel",
+    "Weight": 42.5
+  },
+  {
+    "Breed": "Vizsla",
+    "Weight": 23.5
+  },
+  {
+    "Breed": "Welsh Springer Spaniel",
+    "Weight": 40
+  },
+  {
+    "Breed": "Wirehaired Pointing Griffon",
+    "Weight": 52.5
+  },
+  {
+    "Breed": "American Eskimo",
+    "Weight": 27.5
+  },
+  {
+    "Breed": "Australian Terrier",
+    "Weight": 12
+  },
+  {
+    "Breed": "Basenji",
+    "Weight": 21
+  },
+  {
+    "Breed": "Beagle",
+    "Weight": 24
+  },
+  {
+    "Breed": "Bedlington Terrier",
+    "Weight": 20.5
+  },
+  {
+    "Breed": "Bichon Frise",
+    "Weight": 14
+  },
+  {
+    "Breed": "Border Terrier",
+    "Weight": 13.5
+  },
+  {
+    "Breed": "Boston Terrier",
+    "Weight": 20
+  },
+  {
+    "Breed": "Brussels Griffon",
+    "Weight": 9
+  },
+  {
+    "Breed": "Cairn Terrier",
+    "Weight": 14
+  },
+  {
+    "Breed": "Cardigan Welsh Corgi",
+    "Weight": 30
+  },
+  {
+    "Breed": "Cavalier King Charles Spaniel",
+    "Weight": 17.5
+  },
+  {
+    "Breed": "Dachshund",
+    "Weight": 24
+  },
+  {
+    "Breed": "Dandie Dinmont Terrier",
+    "Weight": 9.5
+  },
+  {
+    "Breed": "English Toy Spaniel",
+    "Weight": 12
+  },
+  {
+    "Breed": "Fox Terrier %uFFFD%uFFFD%uFFFD Smooth",
+    "Weight": 17.5
+  },
+  {
+    "Breed": "Fox Terrier %uFFFD%uFFFD%uFFFD Wirehair",
+    "Weight": 17.5
+  },
+  {
+    "Breed": "French Bulldog",
+    "Weight": 22.5
+  },
+  {
+    "Breed": "German Pinscher",
+    "Weight": 30
+  },
+  {
+    "Breed": "Glen Imaal Terrier",
+    "Weight": 35
+  },
+  {
+    "Breed": "Lakeland Terrier",
+    "Weight": 16
+  },
+  {
+    "Breed": "Manchester Terrier (Standard)",
+    "Weight": 17.5
+  },
+  {
+    "Breed": "Poodle Miniature",
+    "Weight": 20
+  },
+  {
+    "Breed": "Pug",
+    "Weight": 18
+  },
+  {
+    "Breed": "Puli",
+    "Weight": 31
+  },
+  {
+    "Breed": "Schipperke",
+    "Weight": 15
+  },
+  {
+    "Breed": "Scottish Terrier",
+    "Weight": 20
+  },
+  {
+    "Breed": "Sealyham Terrier",
+    "Weight": 19
+  },
+  {
+    "Breed": "Shetland Sheepdog (Sheltie)",
+    "Weight": 17
+  },
+  {
+    "Breed": "Shiba Inu",
+    "Weight": 22.5
+  },
+  {
+    "Breed": "Shih Tzu",
+    "Weight": 12.5
+  },
+  {
+    "Breed": "Silky Terrier",
+    "Weight": 9.5
+  },
+  {
+    "Breed": "Skye Terrier",
+    "Weight": 25
+  },
+  {
+    "Breed": "Tibetan Spaniel",
+    "Weight": 12
+  },
+  {
+    "Breed": "Tibetan Terrier",
+    "Weight": 25
+  },
+  {
+    "Breed": "Welsh Terrier",
+    "Weight": 20.5
+  },
+  {
+    "Breed": "West Highland White Terrier",
+    "Weight": 14
+  },
+  {
+    "Breed": "Whippet",
+    "Weight": 28.5
+  },
+  {
+    "Breed": "Affenpinscher",
+    "Weight": 10
+  },
+  {
+    "Breed": "Chihuahua",
+    "Weight": 3.5
+  },
+  {
+    "Breed": "Chinese Crested",
+    "Weight": 8.5
+  },
+  {
+    "Breed": "Italian Greyhound",
+    "Weight": 8
+  },
+  {
+    "Breed": "Japanese Chin",
+    "Weight": 7.5
+  },
+  {
+    "Breed": "Maltese",
+    "Weight": 5
+  },
+  {
+    "Breed": "Manchester Terrier (Toy)",
+    "Weight": 7
+  },
+  {
+    "Breed": "Papillon",
+    "Weight": 7.5
+  },
+  {
+    "Breed": "Pomeranian",
+    "Weight": 5
+  },
+  {
+    "Breed": "Poodle Toy",
+    "Weight": 10
+  },
+  {
+    "Breed": "Toy Fox Terrier",
+    "Weight": 5.5
+  },
+  {
+    "Breed": "Yorkshire Terrier",
+    "Weight": 5
+  }
+]
