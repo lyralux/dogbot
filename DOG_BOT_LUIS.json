@@ -1,0 +1,441 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "0.1",
+  "name": "BrandonJS-9b9a",
+  "desc": "Default Intents for Azure Bot Service V2",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "Cancel"
+    },
+    {
+      "name": "FindDogBreedSize"
+    },
+    {
+      "name": "Help"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [
+    {
+      "name": "DogBreedSize",
+      "children": [
+        "Height",
+        "Weight"
+      ],
+      "roles": []
+    }
+  ],
+  "composites": [
+    {
+      "name": "DogBreed",
+      "children": [
+        "DogBreedSize"
+      ],
+      "roles": []
+    }
+  ],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [
+    {
+      "name": "big",
+      "mode": true,
+      "words": "height,weight,size,stature,tallness,big",
+      "activated": true
+    },
+    {
+      "name": "size",
+      "mode": true,
+      "words": "weight,weights,size,sizes,weigh,lbs,pounds,kilos,lbs.,lb",
+      "activated": true
+    },
+    {
+      "name": "Weight",
+      "mode": true,
+      "words": "size,pounds,weigh,lbs,weight,sizes,sizing,weights,kgs",
+      "activated": true
+    },
+    {
+      "name": "much",
+      "mode": true,
+      "words": "much,little,many,small,big",
+      "activated": true
+    }
+  ],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "how big is a {DogBreed}?",
+      "intent": "FindDogBreedSize"
+    },
+    {
+      "pattern": "how much does a {DogBreed} weigh?",
+      "intent": "FindDogBreedSize"
+    },
+    {
+      "pattern": "whats the size of a {DogBreed}",
+      "intent": "FindDogBreedSize"
+    }
+  ],
+  "utterances": [
+    {
+      "text": "abort",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "cancel",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "disregard",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "do not do it",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "do not do that",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "don't",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "don't do it",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "don't do that",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "good afternoon",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "good evening",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "good morning",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "good night",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hello bot",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "help me",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "help me please",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "help please",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hi bot",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how are you",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how are you doing today?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how are you doing?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how are you today?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how big is a doberman",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 13,
+          "endPos": 20
+        }
+      ]
+    },
+    {
+      "text": "how big is a doberman pinscher",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 13,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "how big is a dogbreed",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 13,
+          "endPos": 20
+        }
+      ]
+    },
+    {
+      "text": "how many lbs is a beagle",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 18,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "how much does a doberman weigh",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 16,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "how much does an akita weigh",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 17,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "how much is a dalmatian weigh",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 14,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "how tall is a doberman",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 14,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "i am stuck",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "i would like to cancel",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "i'm stuck",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "my water bottle is green.",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "never mind",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "please cancel",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "please disregard",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "please help me",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "please stop",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "stop",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "there is a large deep dish pizza in your future.",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what can i say",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what can you do",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what can you help me with",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what do i do now?",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what do i do?",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what does a american staffordshire terrier weigh",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 12,
+          "endPos": 41
+        }
+      ]
+    },
+    {
+      "text": "what is the weight of a bloodhound",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 24,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "what is the weight of a golden retriever?",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 24,
+          "endPos": 39
+        }
+      ]
+    },
+    {
+      "text": "whats a beagle in lbs",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 8,
+          "endPos": 13
+        }
+      ]
+    },
+    {
+      "text": "what's the weight of a belgian malinois",
+      "intent": "FindDogBreedSize",
+      "entities": [
+        {
+          "entity": "DogBreed",
+          "startPos": 23,
+          "endPos": 38
+        }
+      ]
+    },
+    {
+      "text": "why doesn't this work ?",
+      "intent": "Help",
+      "entities": []
+    }
+  ],
+  "settings": []
+}
