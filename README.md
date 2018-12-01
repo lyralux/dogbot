@@ -6,25 +6,24 @@ This bot is designed to do the following:
 
 get the weight of a dog
 
-only working with one word dog names at the moment.
-
 ask how much a dog breed weighs..
+
+> __NOTE:__ ~~only working for single word dog breeds.~~ 
+
+> **_Updated the LUIS and now working for multi-word dog breeds._**
+
 
 ## examples
 - Akita
 - Bloodhound
-- Borzoi
 - Bullmastiff
-- Kuvasz
 - Mastiff
 - Newfoundland
 - Rottweiler
-- Beauceron
 - Boxer
 - Briard
 - Greyhound
 - Dalmatian
-- Keeshond
 - Pointer
 - Samoyed
 - Beagle
@@ -32,3 +31,15 @@ ask how much a dog breed weighs..
 - Chihuahua
 - Maltese
 - Pomeranian
+- Belgian Malinois
+- Doberman Pinscher
+- German Shepherd Dog
+- Golden Retriever
+- Labrador Retriever
+- American Staffordshire Terrier
+- Australian Shepherd
+- Border Collie
+- Staffordshire Bull Terrier
+- Shiba Inu
+- Shih Tzu
+- Yorkshire Terrier
